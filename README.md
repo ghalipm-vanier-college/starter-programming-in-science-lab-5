@@ -2,15 +2,15 @@
 This template repository is the starter project for Programming in Science Lab 5. Written in Python, and tested with Pytest.
 
 ** Question(s)**
-1. Write a function `hollow_square(n)` that returns a string representing a hollow square pattern of stars (`*`) with side length `n`.
+1. Write a function `hollow_right_leaning_parallelogram(n)` that returns a string representing a hollow parallelogram pattern of stars (`*`) with side length `n >= 3`.
 
 **Example (n = 5):**
 
 ```
-*****
-*   *
-*   *
-*   *
+    *****
+   *   *
+  *   *
+ *   *
 *****
 ```
 
