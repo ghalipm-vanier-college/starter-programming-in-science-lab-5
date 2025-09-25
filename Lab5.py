@@ -1,10 +1,10 @@
 # Example for n = 5:
+#     *****
+#    *   *
+#   *   *
+#  *   *
 # *****
-# *   *
-# *   *
-# *   *
-# *****
-def hollow_square(n):
+def hollow_right_leaning_parallelogram(n):
     return ""
 
 # 1
