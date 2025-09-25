@@ -3,4 +3,14 @@ bin/
 build/
 .gradle/
 __pycache__/
+
+# pytest cache (test runs)
 .pytest_cache/
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+# Created by pytest automatically.
+*
